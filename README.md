@@ -93,6 +93,28 @@ dt.predict([[0.5,0.8,9,260,6,8,1,2]])
 
 ## Output:
 
+<img width="982" height="158" alt="image" src="https://github.com/user-attachments/assets/baae5cdc-1159-42b5-b8ed-0cbd897752e4" />
+
+<img width="983" height="292" alt="image" src="https://github.com/user-attachments/assets/ee45aafe-6dc8-4cb0-a733-d1d6daccaccb" />
+
+<img width="989" height="198" alt="image" src="https://github.com/user-attachments/assets/cda8d3b4-00eb-4a3c-a374-66c12fcfd1c2" />
+
+<img width="985" height="57" alt="image" src="https://github.com/user-attachments/assets/a6a42ea5-f0ad-4ec1-b9fe-4ca53d122387" />
+
+<img width="975" height="164" alt="image" src="https://github.com/user-attachments/assets/a73475c9-b4dd-444c-870f-f0153065cfe2" />
+
+<img width="987" height="112" alt="image" src="https://github.com/user-attachments/assets/30d4bd93-0ff5-4ff0-9fc8-9fe1cf53fe04" />
+
+<img width="996" height="77" alt="image" src="https://github.com/user-attachments/assets/967e4d97-e70a-420f-990e-9cd90e22498b" />
+
+<img width="990" height="70" alt="image" src="https://github.com/user-attachments/assets/99827845-3839-4165-ac8b-e00aab11c956" />
+
+<img width="997" height="90" alt="image" src="https://github.com/user-attachments/assets/7baaef19-dd55-4bd6-a480-073cd6850d00" />
+
+<img width="990" height="180" alt="image" src="https://github.com/user-attachments/assets/0a854843-4338-4987-b2d6-35d7c1fa8ee5" />
+
+<img width="984" height="139" alt="image" src="https://github.com/user-attachments/assets/784fc8b3-08e6-4f12-a4bc-f0aaac6da886" />
+
 
 
 ## Result:
